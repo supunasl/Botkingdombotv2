@@ -171,8 +171,8 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: date,
-body: 'bodynya',
-thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
+body: 'botkingdom',
+thumbnailUrl: "https://telegra.ph/file/c09fbfaa9daad7aefc076.jpg",
 sourceUrl: "https://chat.whatsapp.com/DNUr9fAAaTq6YW3SFQHX7Q",
 mediaType: 1,
 renderLargerThumbnail: true
