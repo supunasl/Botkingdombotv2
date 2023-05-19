@@ -25,3 +25,4 @@ handler.command = ['xnxxsearch'];
 handler.tags = ['internet'];
 
 module.exports = handler;
+handler.premium = true
